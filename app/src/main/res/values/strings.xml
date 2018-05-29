@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidWeakHandler</string>
+
+    <string name="send_delay_msg">发送延迟消息</string>
+    <string name="into_weak">进入WeakActivity</string>
+    <string name="back">返回</string>
+
+</resources>
